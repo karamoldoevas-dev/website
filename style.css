@@ -1,0 +1,47 @@
+h1 {
+    color:rgb(229, 143, 15);
+    text-align: center;
+}
+p {
+    color: rgb(28, 17, 0);
+    font-size: 20px;
+    font-style: italic;
+    border: 2px solid rgb(229, 141, 9);
+    background-color: rgb(229, 141, 9);
+}
+h3 {
+    color: rgb(229, 141, 9);
+    text-align: center;
+    text-transform: uppercase;
+}
+div {
+    background-color: rgb(229, 141, 9);
+    text-align: center;
+    padding: 10px;
+}
+ul li {
+    text-decoration: underline;
+    font-weight: 900;
+}
+img {
+    width: 200px;
+    border-radius: 20px;
+}
+a {
+    color: rgb(229, 141, 9);
+    text-decoration: none;
+}   
+#news {
+    color: rgb(28, 17, 0);
+    font-size: 20px;
+    font-style: italic;
+    border: 2px solid rgb(46, 229, 9);
+    background-color: rgb(88, 123, 138);
+}
+.south {
+    color: rgb(28, 17, 0);
+    font-size: 20px;
+    font-style: italic;
+    border: 2px solid rgb(227, 230, 227);
+    background-color: rgb(156, 194, 21);
+}
